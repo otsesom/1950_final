@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<!--
+	author: Christopher Pickwell
+	date:   4/3/2016
+	notes:	COMP 1950 Resources
+	-->
+	<head>
+		<title>comp 1950 | intermediate web design and development</title>
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link href="css/style.css" rel="stylesheet" />
+		<meta charset="utf-8" />
+	</head>
+
+	<body>
+	<!--#include file="header.shtml" -->
+	<!--#include file="nav_inc.shtml" -->
+	<content>
+		<h1>resources</h1>
+		<h2>validators</h2>
+		<section>			
+			<p><a href="http://validator.w3.org/">W3C HTML validator</a></p>
+			<p><a href="http://jigsaw.w3.org/css-validator/">W3C CSS validator</a></p>
+		</section>
+		
+		<h2>web browsers</h2>		
+		<section>			
+			<p><a href="http://windows.microsoft.com/en-CA/internet-explorer/products/ie/home">Internet Explorer</a></p>
+			<p><a href="http://www.mozilla.com/en-US/firefox/new/">Mozilla Firefox</a></p>
+			<p><a href="http://www.apple.com/safari/">Safari</a></p>
+			<p><a href="http://www.opera.com/">Opera</a></p>
+			<p><a href="http://www.google.com/chrome/">Chrome</a></p>
+			<p><a href="http://www.webbie.org.uk/">Webbie</a></p>
+			<p><a href="http://webbrowseremulator.com/">Web Browser Emulator</a></p>
+		</section>
+		
+		<h2>browser based diagnositc tools</h2>		
+		<section>
+			<p><a href="http://www.getfirebug.com/" title="Get Firebug!">Firefox Firebug</a></p>
+			<p><a href="https://developers.google.com/chrome-developer-tools/">Chrome</a></p>
+			<p> <a href="https://developer.apple.com/safari/tools/">Safari</a></p>
+			<p><a href="http://msdn.microsoft.com/en-ca/library/gg589507%28v=vs.85%29.aspx">Internet Explorer</a></p>			
+		</section>
+		
+		<h2>html text editors</h2>		
+		<section>
+			<h4>Windows</h4>
+			<p><a href="http://www.htmlkit.com/download/#download-html-kit-292">HTML Kit</a></p>
+			<p><a href="http://www.editplus.com/download.html">EditPlus</a></p>
+			<p><a href="http://notepad-plus-plus.org/">Notepad++</a></p>
+			<h4>Macintosh</h4>
+			<p><a href="http://www.barebones.com/products/textwrangler/">TextWrangler</a></p>
+			<p><a href="http://macromates.com/">Textmate</a></p>
+		</section>
+		
+		<h2>ftp client utilities</h2>		
+		<section>			
+			<h4>Windows</h4>
+			<p><a href="http://filezilla-project.org/download.php">Filezilla</a></p>			
+			<p><a href="http://www.download.com/Core-FTP-LE/3000-2160_4-10195752.html">Core FTP Lite Download Page at Download.com</a></p>
+			<p><a href="http://www.download.com/FTP/3150-2160_4-0.html?tag=nav_dir">Download.com FTP utilities</a></p>
+			<h4>Macintosh</h4>
+			<p><a href="http://filezilla-project.org/download.php">Filezilla</a></p>
+			<p><a href="http://fetchsoftworks.com/">Fetch</a></p>			
+		</section>
+			
+		<h2>texts</h2>		
+		<section>			
+			<p>There is no official textbook for comp1950, but if you wish to supplement the online course notes and examples you may find the following optional texts useful:</p>
+			<img class="textbook_img" src="comp%201950%20_%20resources_files/web_dev_text.jpg" alt="CSS3 for web designers" >
+			<p>Web Development and Design Foundations with HTML5, 7/Edition</p>
+			<p>By Terry Felke-Morris</p>
+			<p>ISBN: <code>978-0-1335717-8-3</code></p>
+			<p><a href="http://www.pearsonhighered.com/educator/product/Web-Development-and-Design-Foundations-with-HTML5-7E/9780133571783.page">Text website</a></p>
+					<br>
+					<img class="textbook_img" src="comp%201950%20_%20resources_files/aba-html.png" alt="HTML5 for web designers" >
+			<p>HTML5 for web designers</p>
+			<p>By Jeremy Keith</p>
+			<p>ISBN: <code>978-0-9844425-0-8</code></p>
+			<p><a href="http://www.abookapart.com/products/html5-for-web-designers">Text website</a></p>
+			<br>
+			<img class="textbook_img" src="comp%201950%20_%20resources_files/aba-css.png" alt="CSS3 for web designers" >
+			<p>CSS3 for web designers</p>
+			<p>By Dan Cederholm</p>
+			<p>ISBN: <code>978-0-9844425-2-2</code></p>
+			<p><a href="http://www.abookapart.com/products/css3-for-web-designers">Text website</a></p>
+		</section>	
+		<!--#include file="footer.shtml" -->
+	</content>
+	</body>
+</html>

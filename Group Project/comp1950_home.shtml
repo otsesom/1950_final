@@ -7,19 +7,17 @@
 	-->
 	<head>
 		<title>comp 1950 | intermediate web design and development</title>
-		<link href="/students/cpickwell1/css/style.css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link href="css/style.css" rel="stylesheet" />
 		<meta charset="utf-8" />
 	</head>
 
 	<body>
+		<!--#include file="header.shtml" -->
 		<!--#include file="nav_inc.shtml" -->
-		
-		<h1>british columbia institute of technology</h1>
-
-		<header>comp 1950 | intermediate web design and development</header>
 		<content>			
 			<aside>				
-				<p style="font-weight:bold;">This website is for BCIT students of the 6 week version of COMP 1950.</p>
+				<p><strong>This website is for BCIT students of the 6 week version of COMP 1950.<strong></p>
 				<p>Check the <a href="http://www.bcit.ca/study/courses/comp1950">course	catalogue at BCIT</a> to see when this course is running next.</p>
 			</aside>
 			<br>
@@ -104,28 +102,7 @@
 					<li>a .zip or .rar compressed file as an attachment. include in it all related files and folders (HTML, CSS, and Javascript, images, etc)</li>
 					<li>in the body of the email describe your question(s) as specifically as possible</li>
 				</ul>
-			</section>		
-			<h2>texts</h2>	
-			<section>		
-				<p>There is no official textbook for comp1950, but if you wish to supplement the online course notes and examples you may find the following optional texts useful:</p>
-				<img src="./comp 1950 _ course information_files/web_dev_text.jpg" alt="CSS3 for web designers" width="100px" height="154px" style="float:left;margin-right:8px;">
-				<p>Web Development and Design Foundations with HTML5, 7/Edition</p>
-				<p>By Terry Felke-Morris</p>
-				<p>ISBN: <code>978-0-1335717-8-3</code></p>
-				<p><a href="http://www.pearsonhighered.com/educator/product/Web-Development-and-Design-Foundations-with-HTML5-7E/9780133571783.page">Text website</a></p>
-						<br />
-				<img src="./comp 1950 _ course information_files/aba-html.png" alt="HTML5 for web designers" width="100px" height="154px" style="float:left;margin-right:8px;">
-				<p>HTML5 for web designers</p>
-				<p>By Jeremy Keith</p>
-				<p>ISBN: <code>978-0-9844425-0-8</code></p>
-				<p><a href="http://www.abookapart.com/products/html5-for-web-designers">Text website</a></p>
-				<br />
-				<img src="./comp 1950 _ course information_files/aba-css.png" alt="CSS3 for web designers" width="100px" height="154px" style="float:left;margin-right:8px;">
-				<p>CSS3 for web designers</p>
-				<p>By Dan Cederholm</p>
-				<p>ISBN: <code>978-0-9844425-2-2</code></p>
-				<p><a href="http://www.abookapart.com/products/css3-for-web-designers">Text website</a></p>
-			</section>			
+			</section>
 			<h2>Course policies</h2> 
 			<section> 
 				<p>All students must understand and comply with the BCIT <a href="http://www.bcit.ca/files/cas/computingparttime/pdf/computing_pts_student_guide.pdf">Student Guide</a>.</p> 
@@ -147,8 +124,6 @@
 				<p>By attending this course, every student acknowledges that they have been made aware of these policies and the actions that will be taken if students fail to comply.</p> 
 			</section> 
 		</content>
-		<footer>
-		<a href="http://bcitcomp.ca/comp1950/#top">Top of Page</a> | <a href="http://bcitcomp.ca/comp1950/">Home</a>
-		</footer>
+		<!--#include file="footer.shtml" -->
 	</body>
 </html>
