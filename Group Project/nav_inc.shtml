@@ -1,8 +1,8 @@
 <nav>		
 	<div class="navline1">
 		<a href="comp1950_home.shtml">Home</a
-		><a href=comp1950_resources.shtml">resources</a
-		><a title="Lecture on Tools &amp; Standards" href="comp1950_lecture1">01</a
+		><a href="comp1950_resources.shtml">resources</a
+		><a title="Lecture on Tools &amp; Standards" href="comp1950_lecture1.shtml">01</a
 		><a title="Lecture on HTML5" href="http://bcitcomp.ca/comp1950/lectures/two/">02</a
 		><a title="Lecture on CSS Techniques" href="http://bcitcomp.ca/comp1950/lectures/three/">03</a
 		><a title="Lecture on CSS Layouts" href="http://bcitcomp.ca/comp1950/lectures/four/">04</a
@@ -12,7 +12,7 @@
 		><a title="Lecture on Dynamic Content" href="http://bcitcomp.ca/comp1950/lectures/eight/">08</a
 		><a title="Lecture on Templating, SEO" href="http://bcitcomp.ca/comp1950/lectures/nine/">09</a
 		><a title="Lecture on Methodology" href="http://bcitcomp.ca/comp1950/lectures/ten/">10</a
-		><a title="Lecture on Project Work" href="comp1950_lecture11">11</a>
+		><a title="Lecture on Project Work" href="comp1950_lecture11.shtml">11</a>
 	</div>	
 	<div class="navline3">
 		<a href="http://bcitcomp.ca/students/">Student Webhosting</a

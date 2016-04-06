@@ -1,0 +1,149 @@
+body{
+	font-size:12px;
+	background-color:#2D4671
+}
+h1{
+	background-color:#11073B;
+	font-size:2.0em;	
+	color:white;	
+	padding:12px 20px 12px 20px;
+	margin:0px;
+}
+h2{
+	font-size:1.6em;
+	color:white;
+	background-color:#051838;	
+	padding:12px 8px 12px 8px;
+	margin:4px 0px 4px 0px;
+}
+h3{
+	font-size:1.4em;
+	color:white;
+	background-color:#152C55;	
+	padding:12px 4px 12px 4px;
+	margin:4px 0px 4px 0px;
+}
+h6{
+	font-size:1.2em;
+}
+a{
+	margin:4px;
+}
+p, ul, ol{
+	font-size:1.0em;
+	padding:12px 4px 12px 4px;
+	margin:0px;
+	list-style-position: inside;
+}
+li, dd, dt{
+	padding:0px;
+	margin:0px;
+	list-style-type:dot;
+}
+header{
+	font-size:1.6em;
+	background-color:#43857C;
+	padding:4px;
+}
+header h1{
+	font-size:3.2em;
+	margin:8px 16px 4px 16px;
+	background-color:#43857C;
+}
+footer{
+	font-size:1.0em;
+	padding:2px 4px 2px 4px;
+}
+content{
+	font-size:1.2em;
+	background-color:#152C55;
+}
+section{
+	font-size:1.2em;
+	background-color:#7689A9;
+	padding:12px 4px 12px 4px;
+	margin:4px;
+	border-style:solid;
+	border-width:1px;
+}
+aside{
+	background-color:#11073B;
+	color:white;
+	font-weight:lighter;
+}
+nav{
+	font-size:1.6em;
+	background-color:#11073B;
+	font-weight:heavier;
+	padding:4px;
+}
+nav a{
+	display:inline-block;
+	background-color:#867D80;
+	color:black;
+	margin:0px;
+	padding-bottom:8px;
+	padding-top:8px;
+	font-size:1.2em;
+	text-decoration:none;
+	text-align:center;	
+	font-weight:heavier;
+}
+nav a:hover{
+	background-color:#11073B;
+	color:white;
+}
+nav a:visited{
+	background-color:#231858;
+	color:black;
+}
+nav h6{
+	display:inline-block;
+	padding:8px;
+	background-color:grey;
+	margin:0px;
+	color:white;
+}
+nav p{
+	display:inline-block;
+	background-color:#11037B;
+	padding:12px 8px 9px 8px;
+	margin:0px;
+	color:white;
+}
+div{
+	margin:0px;
+}
+a{
+	color:#0D5047;
+}
+a:hover{
+	color:#0D5047;
+}
+a:visited{
+	color:#00352E;
+}
+a:active{
+	
+}
+.textbook_img{
+	float:left;
+	margin-right:8px;
+	height:154px;
+	width:100px;
+	display:block;
+}
+.navline1, .navline2, navline3{
+}
+.navline1 a{
+	padding-left:12px;
+	padding-right:12px;
+}
+.navline2 a{
+	padding-left:8px;
+	padding-right:8px;
+}
+.navline3 a{
+	padding-left:6px;
+	padding-right:6px;
+}

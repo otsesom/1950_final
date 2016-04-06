@@ -16,7 +16,7 @@
 		<!--#include file="header.shtml" -->
 		<!--#include file="nav_inc.shtml" -->
 		<content>
-			<h1>lecture one: course introduction</h1>
+			<h1>Lecture One: course introduction</h1>
 			<h2>Agenda</h2>
 				<section>
 					<ul>	
@@ -108,8 +108,8 @@
 						</ul>			
 						</dd>
 				<dt><strong>session 11</strong></dt>
-						<dd>group project work	
-						</dd>
+						<dd>group project work</dd>
+						<br />
 				<dt><strong>session 12</strong></dt>
 						<dd>final exam
 						<ul>
