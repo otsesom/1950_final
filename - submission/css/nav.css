@@ -1,0 +1,42 @@
+nav {
+    margin: 0 auto;
+}
+nav ul {
+    padding: 0;
+    position: absolute;
+}
+nav li {
+    display: inline-block;
+    text-align: center;
+    background-color: #4db6ac;
+    list-style-type: none;
+    padding: 0.5em;
+    width: 13em;
+    margin: 0;
+}
+nav li:first-child {
+    border: none;
+}
+nav li li {
+    text-align: left;
+    margin-left: -0.5em;
+}
+nav a {
+    text-decoration: none;
+    color:black;
+    padding: inherit;
+    width: inherit;
+}
+nav .active {
+    background-color: #009688;
+    color:#ffffff;
+}
+.lecture-drop, .associated-drop {
+    display: none;
+}
+.lecture-button:hover .lecture-drop {
+    display: block;
+}
+.associated-button:hover .associated-drop {
+    display: block;
+}
