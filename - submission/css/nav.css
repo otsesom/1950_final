@@ -1,9 +1,10 @@
 nav {
     display: block;
-    height: 2em;
+    height: 2rem;
     margin: 0 auto;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     font-weight: 600;
+    font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 nav ul {
     padding: 0;
@@ -15,7 +16,7 @@ nav li {
     background-color: #4db6ac;
     list-style-type: none;
     padding: 0.5em;
-    width: 14em;
+    width: 13em;
     margin: 0;
 }
 nav li:first-child {

@@ -155,3 +155,6 @@ a:active{
 	padding-left:6px;
 	padding-right:6px;
 }
+#lecture-list a {
+    display: block;
+}
