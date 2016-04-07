@@ -1,8 +1,8 @@
 nav {
     display: block;
-    height: 2rem;
-    margin: 0 auto;
-    font-size: 1.5rem;
+    height: 2em;
+    margin: 0 auto 1em;
+    font-size: 1.5em;
     font-weight: 600;
     font-family: Helvetica, Calibri, Arial, sans-serif;
 }
