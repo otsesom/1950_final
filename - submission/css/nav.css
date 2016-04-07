@@ -5,6 +5,8 @@ nav {
     font-size: 1.5em;
     font-weight: 600;
     font-family: Helvetica, Calibri, Arial, sans-serif;
+    position: relative;
+    z-index: 100;
 }
 nav ul {
     padding: 0;
@@ -31,6 +33,9 @@ nav a {
     color:black;
     padding: inherit;
     width: inherit;
+}
+nav a[href*="/lectures/"] {
+    
 }
 nav .active {
     background-color: #009688;
